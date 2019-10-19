@@ -1,9 +1,4 @@
-body {
-  font-family: 'Roboto', sans-serif;
-  margin: 30px;
-  text-align: center;
-}
-
-.mainBlock {
-  margin-top: 20%;
+.container-centering {
+  display: flex;
+  align-items: center;
 }
