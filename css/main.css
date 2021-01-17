@@ -13,8 +13,17 @@
   padding-bottom: 10px;
 }
 
+div{
+  width: 800px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  font-family: "Roboto";
+  font-size: 60px;
+}
+
 body {background-color: #EEDFDE;}
-p {text-align: center; font-family: "Roboto"; font-size: 60px;}
 
 /* roboto-300italic - latin */
 @font-face {
