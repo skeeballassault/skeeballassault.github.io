@@ -1,3 +1,3 @@
-# hoborg.fun
+# borgtech.cc
 
-The repo for my personal site. Nothing too exciting.
+Landing page for new website.
