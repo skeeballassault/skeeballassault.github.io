@@ -1,0 +1,19 @@
+.garogier {
+    font-family: 'Garogier';
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Garogier';
+    src: url('Garogier.eot');
+    src: url('Garogier.eot?#iefix') format('embedded-opentype'),
+        url('Garogier.woff2') format('woff2'),
+        url('Garogier.woff') format('woff'),
+        url('Garogier.ttf') format('truetype'),
+        url('Garogier.svg#Garogier') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
